@@ -12,4 +12,4 @@ La solución utiliza una arquitectura distribuida:
 - **Spark**: Procesamiento y análisis de datos.
 - **Hadoop**: Almacenamiento de datos procesados.
 
-![Diagrama de Arquitectura](../img/arquitectura_cobertura_movil.png)
+![Diagrama de Arquitectura](Diagrama de arquitectura.png)
