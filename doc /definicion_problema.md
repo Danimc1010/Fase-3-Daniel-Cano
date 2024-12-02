@@ -7,7 +7,7 @@ La cobertura móvil en Colombia es un indicador clave para evaluar el acceso a l
 Analizar la cobertura móvil disponible en Colombia para identificar patrones de distribución, áreas de mejora, y posibles disparidades tecnológicas.
 
 ## Conjunto de Datos
-Aunque no se usaron datos reales, se conceptualiza un dataset con las siguientes columnas:
+Se conceptualiza un dataset con las siguientes columnas:
 - Año
 - Trimestre
 - Proveedor
