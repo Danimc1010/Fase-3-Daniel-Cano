@@ -11,4 +11,4 @@ La solución utiliza una arquitectura distribuida:
 - **Kafka**: Generación y transmisión de datos en tiempo real.
 - **Spark**: Procesamiento y análisis de datos.
 - **Hadoop**: Almacenamiento de datos procesados.
-![Diagrama de Arquitectura](../img/Diagramadearquitectura.png)
+![Diagrama de Arquitectura](../img/Diagrama.png)
