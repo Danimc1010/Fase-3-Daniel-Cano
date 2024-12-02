@@ -4,7 +4,7 @@ Este repositorio documenta el análisis de cobertura móvil utilizando tecnolog�
 
 ## Índice
 1. [Definición del Problema](definicion_problema.md)
-2. [Diseño de la Solución y Arquitectura](docs/diseno_solucion.md)
-3. [Explicación de Tecnologías](docs/tecnologias_utilizadas.md)
-4. [Resultados Obtenidos](docs/resultados.md)
-5. [Conclusiones](docs/conclusiones.md)
+2. [Diseño de la Solución y Arquitectura](diseno_solucion.md)
+3. [Explicación de Tecnologías](tecnologias_utilizadas.md)
+4. [Resultados Obtenidos](resultados.md)
+5. [Conclusiones](conclusiones.md)
