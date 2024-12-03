@@ -70,8 +70,11 @@ Siga estos pasos para configurar el entorno de trabajo:
      ```
      http://<IP_MaquinaVirtual>:4040
      ```
+
 Diagrama de Arquitectura
 ![Diagrama de Arquitectura](img/Diagrama.png)
+
+
 
 Resultados Esperados
 
