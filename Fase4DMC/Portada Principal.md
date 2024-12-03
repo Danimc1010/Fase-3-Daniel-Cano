@@ -3,9 +3,9 @@
 ## Portada
 
 **Daniel Esteven Cano Melo**  
-Curso: Big Data  
-Tutor: **Handry Orozco**   
-Grupo: **202016911_53** 
+Big Data (curso)  
+**Handry Orozco** (Tutor)  
+**202016911_53** (Grupo)  
 Escuela de Ciencias Básicas Tecnologías e Ingenierías - ECBTI  
 Universidad Nacional Abierta y a Distancia - UNAD  
 2024
