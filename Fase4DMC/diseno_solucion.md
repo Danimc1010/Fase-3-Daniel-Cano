@@ -1,7 +1,7 @@
 # Diseño de la Solución y Arquitectura
 
 ## Diagrama de Arquitectura
-
+Diagrama de Arquitectura
 ![Diagrama de Arquitectura](img/Diagrama.png)
 
 ## Descripción
