@@ -25,7 +25,7 @@ Universidad Nacional Abierta y a Distancia - UNAD
 
 ### Diagrama de Arquitectura
 
-![Diagrama de Arquitectura](Fase4DMC/img/diagrama.png)
+![Diagrama de Arquitectura](Fase-3-Daniel-Cano/diagrama.png)
 
 
 Este repositorio contiene la documentación y los archivos relacionados con el análisis de datos sobre cobertura móvil utilizando tecnologías de Big Data, incluyendo Spark y Kafka.
