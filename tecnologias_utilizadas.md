@@ -70,7 +70,18 @@ Siga estos pasos para configurar el entorno de trabajo:
      ```
      http://<IP_MaquinaVirtual>:4040
      ```
+Diagrama de Arquitectura
 
+Resultados Esperados
+
+    Los datos de sensores son generados y enviados en tiempo real.
+    Los datos son procesados por Spark Streaming en ventanas de tiempo de 1 minuto.
+    Las estadísticas de temperatura y humedad promedio por sensor se muestran en la consola.
+    Todo el proceso es monitoreado en tiempo real a través de las interfaces web de Spark y Kafka.
+
+Conclusiones
+
+Este sistema permite monitorear y analizar la cobertura móvil por tecnología en Colombia de manera eficiente y en tiempo real, utilizando Apache Spark y Kafka. Este flujo de trabajo se puede escalar y mejorar con análisis adicionales y algoritmos de Machine Learning para predecir tendencias de cobertura futura.
 ## Código
 
 ### Productor de Kafka (`kafka_producer.py`)
