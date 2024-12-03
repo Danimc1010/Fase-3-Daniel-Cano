@@ -1,0 +1,13 @@
+Fase-3-Daniel-Cano
+│
+├── README.md
+├── introduccion.md
+├── definicion_problema.md
+├── diseno_solucion.md
+├── tecnologias_utilizadas.md
+├── analisis_resultados.md
+├── conclusiones.md
+├── img/
+│   └── Diagrama.png
+└── datasets/
+    └── dataset_ejemplo.csv
